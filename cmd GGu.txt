@@ -1,0 +1,2 @@
+cd C:\Users\gonzalo.gurriaran\OneDrive - DSV\General - FR.Tendermanagement\Turbo Map\SAV\Tool.Streamlit
+python -m streamlit run geodata_visualization_dashboard.py

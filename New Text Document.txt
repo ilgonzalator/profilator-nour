@@ -1,0 +1,10 @@
+in command :
+cd " path to the folder where the py file is"
+exepmle : cd "C:\Users\nour.ben-romdhane\OneDrive - DSV\Desktop\New folder\New folder\test3"
+then:
+python -m streamlit run "name of py file.py"
+ex: python -m streamlit run app.py
+
+
+cd "C:\Users\nour.ben-romdhane\OneDrive - DSV\General - FR.Tendermanagement\Turbo Map\SAV\Tool.Streamlit"
+python -m streamlit run geodata_visualization_dashboard.py
